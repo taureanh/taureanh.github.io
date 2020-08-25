@@ -1,4 +1,4 @@
-##Access as a webpage via https://taureanh.github.io/
+## Access as a webpage via https://taureanh.github.io/
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
